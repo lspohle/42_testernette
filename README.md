@@ -1,8 +1,8 @@
-# Testernette - your test program for 42 projects
+# Testernette - your test program for projects at 42
 
-> ## “Honor your inner child by losing yourself in simple pleasures.” - Kim del Valle Walker
+> ## “In school, you're taught a lesson and then given a test. In life, you're given a test that teaches you a lesson.” - Tom Bodett
 
-Especially in the early stages of the 42 Core Curriculum  of 'Testernette' mimics 'moulinette'
+In the early stages of the 42 core curriculum, we must submit our projects, complete three evaluations with our peers, and pass `Moulinette`. We all know from experience how strict `Moulinette` can be. `Testernette` presents you therefore the opportunity to test your project by yourself before finally submitting it. Be cautioues, `Testernette` only tests your code if you passed `Norminette`.
 
 <img width="506" alt="RWG - exemplary output" src="https://user-images.githubusercontent.com/121381385/211149329-fc0f9b2a-e804-4a9d-b7dc-0c4acbfbb105.png">
 
