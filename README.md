@@ -20,7 +20,7 @@ In the early stages of the 42 core curriculum, we must submit our projects, comp
    If you prefer not having an alias for `Testernette`, just enter the following command in the appropriate directory to run testernette.
 
          make -s re
-4. Run `Testernette` by using the alias you created (you must be in the directory of testernette).
+4. Run `Testernette` by using the alias you created. Keep in mind that you must be in the aforementioned appropraite directory.
 
        testernette
 
