@@ -12,8 +12,8 @@ In the early stages of the 42 core curriculum, we must submit our projects, comp
  
       | Your project  | Testernette's directory   |
       |:-------------:|:-------------------------:|
-      | Libft         |[testernette_libft](https://github.com/lspohle/42_testernette/tree/main/testernette_libft)   |
-      | Printf        |[testernette_printf](https://github.com/lspohle/42_testernette/tree/main/testernette_printf) | 
+      | Libft         |[testernette_libft](https://github.com/lspohle/PRIVATE_testernette_42/tree/main/testernette_libft)   |
+      | Printf        |[testernette_printf](https://github.com/lspohle/PRIVATE_testernette_42/tree/main/testernette_printf) | 
 3. Enter the following command in order to create an alias for `Testernette`. You only need to do it once.
 
        bash testernette.sh
